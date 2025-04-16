@@ -21,8 +21,6 @@ this app collects detailed information from students willing to donate blood, wi
 - **Database**: MongoDB (assumed)  
 
 ## 📸 Screenshots
-
-https://res.cloudinary.com/du15dlpjn/image/upload/v1744807394/blood_iw3afd.png
-
-https://res.cloudinary.com/du15dlpjn/image/upload/v1744807397/image_z0icks.png
+![App Screenshot](https://res.cloudinary.com/du15dlpjn/image/upload/v1744807394/blood_iw3afd.png)
+![App Screenshot](https://res.cloudinary.com/du15dlpjn/image/upload/v1744807397/image_z0icks.png)
 
