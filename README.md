@@ -22,5 +22,7 @@ this app collects detailed information from students willing to donate blood, wi
 
 ## 📸 Screenshots
 
+https://res.cloudinary.com/du15dlpjn/image/upload/v1744807394/blood_iw3afd.png
 
+https://res.cloudinary.com/du15dlpjn/image/upload/v1744807397/image_z0icks.png
 
